@@ -1,8 +1,29 @@
 {
-    "count": 2,
+    "count": 6,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": "20b2bbaa-707f-417b-b16b-8c4a449d268b",
+            "collectionId": "German",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/German/20b2bbaa-707f-417b-b16b-8c4a449d268b_de_Male.mp4"
+        },
+        {
+            "id": "de04a68c-f80a-476b-a470-e0fd39fe7468",
+            "collectionId": "German",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/German/de04a68c-f80a-476b-a470-e0fd39fe7468_de_Male.mp4"
+        },
+        {
+            "id": "5f0bb31d-3701-4cb1-ba07-5112cce65e46",
+            "collectionId": "German",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/German/5f0bb31d-3701-4cb1-ba07-5112cce65e46_de_Male.mp4"
+        },
         {
             "id": "186701ab-af0b-4ef4-b209-4d52593e5918",
             "collectionId": "German",
@@ -16,6 +37,13 @@
             "type": "Blog_Post",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/German/b81875b2-f015-4e0c-aa05-7f78911a52b1_de_Male.mp4"
+        },
+        {
+            "id": "bfb7ead7-cff9-4b26-875a-75fa9ca24676",
+            "collectionId": "German",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/German/bfb7ead7-cff9-4b26-875a-75fa9ca24676_de_Female.mp4"
         }
     ]
 }
